@@ -4,7 +4,7 @@ A simple client-server chat application made in Java.
 
 ## Overview
 
-This project implements a basic client-server chat system using Java. It demonstrates core networking concepts and allows multiple clients to communicate with a central server. The code is straightforward and easy to understand, making it an excellent starting point for learning Java network programming.
+This project implements a basic client-server chat system using Java. It demonstrates core networking concepts and allows multiple clients to communicate with a central server. The code is straightforward and easy to understand.
 
 ## Features
 
